@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "site": "worktoolbox",
+  "sha256": {
+    "build.py": "b75d96e22daf57d8db3a535a8405ec19585680587a2bdb64783c3983d6651aaf",
+    "content_support.py": "14e0f83eca00820a086224fd625f2d65ee37351f69934af7638b6c103e1026db"
+  }
+}

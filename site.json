@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "업무도구함",
+  "brand": "WORKTOOLBOX",
+  "mark": "WO",
+  "worker": "worktoolbox",
+  "url": "https://worktoolbox.webnote-lab.workers.dev",
+  "description": "업무도구함의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "업무도구함, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "업무도구함의 정보와 실용 가이드를 정리합니다.",
+      "name": "업무도구함",
+      "slug": "worktoolbox"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/worktoolbox/issues"
+}
